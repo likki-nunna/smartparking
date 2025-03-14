@@ -1,0 +1,1 @@
+With the increasing number of vehicles in urban areas, finding a parking space has become a significant challenge, leading to traffic congestion and fuel wastage. This Smart Parking System leverages YOLOv8 and OpenCV to detect vehicles and monitor parking slots in real-time using CCTV cameras.
